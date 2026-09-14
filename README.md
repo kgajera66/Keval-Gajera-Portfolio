@@ -1,4 +1,4 @@
-# KevalkumarGajera-Portfolio
+# Keval Gajera-Portfolio
 Portfolio of data engineering, machine learning, and applied AI projects — including end-to-end pipelines (Python, SQL, Snowflake, dbt), predictive modeling, Power BI dashboards, and AI agents built with both cloud (Claude API) and local (Ollama, RAG) models.
 
 
